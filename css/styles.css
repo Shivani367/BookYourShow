@@ -1,0 +1,112 @@
+
+#title{
+    font-family: "Montserrat-Black";   
+}
+.bottom-left{
+    width:60%;
+    float:left;  
+    background-color: #251749;
+    padding-left:10px;
+    height: 54.5px;    
+}
+.bottom-right{
+    width:40%;
+    float:right; 
+    background-color: #251749;
+    padding-right:10px;
+    height: 54.5px;
+}
+h2{
+    font-family: 'Chango', cursive;
+    font: size 12px;
+    line-height: 1.5rem;
+}
+.main{
+   background-color: #251749;
+    height: 54.5px;
+}
+.up-container{
+    height:56px;
+    background-color:#495579; 
+    color:#B3005E;   
+}
+
+/* navbars */
+.navbar{
+    height:54.5px;
+
+}
+.nav-item{
+    padding:0px 8px;
+}
+.nav-link{
+    font-family:Montserrat-Light;
+  
+}
+.navbar-brand{
+    font-family: 'Titan One';
+    padding: 13px;
+    
+   
+}
+.sign-in-button{
+    margin-top:4px ;
+}
+/* testimonials */
+#testimonials{
+    text-align: center;
+    background-color:#D23369;
+    margin: 30px 30px;
+    height:350px;
+    padding-bottom: 30px;
+  
+}
+.testimonial-image{
+        padding-top:30px;
+        height: 200px;
+        padding-bottom: 30px;
+
+}
+.carousel-item{
+    padding:7% 15%;
+  
+}
+
+
+/* features */
+#features{
+    padding:15px 100px 100px ;
+}
+.card-img-top{
+    height:1oopx;
+}
+/* cta */
+
+#cta{
+    background-color:#D23369;
+    color:#fff;
+    text-align: center;
+    margin-top:50px;
+    padding:7% 15%;
+}
+h3{
+    font-family:'Playfair Display', serif;
+    font-size: 3.5rem;
+    padding-bottom: 20px;
+}
+.downlad-btn{
+   margin:3px 5px;
+}
+.btn{
+    padding-top:20px;
+}
+
+/* footer */
+    
+#footer{
+    padding:7% 15%;
+    text-align: center;
+}
+.social-icon{
+   margin:20px 10px;
+}
